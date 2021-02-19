@@ -284,6 +284,11 @@ textarea.form-control {
   color: #666;
 }
 
+
+.logo{
+  max-height: 4rem;
+}
+
 /* Microsoft Edge */
 .mt-20 {
   margin-top: 20px;
