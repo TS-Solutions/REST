@@ -643,6 +643,7 @@ ul.pagination .active a {
   background: url("../images/home/hero.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  height: 60vh;
 }
 
 .bg-2 {
@@ -900,7 +901,7 @@ ul.pagination .active a {
 }
 
 .hero-area {
-  padding: 100px 0 0;
+  padding: 20vh 0 0;
 }
 
 .hero-area .content-block {
@@ -2718,4 +2719,15 @@ form textarea {
  }
 .product-item .product-ratings .selected i{
  color: #fec51e;
+}
+
+.price span{
+  color: #ccc;
+  text-decoration: line-through;
+}
+
+.price p{
+  color: #dc3545;
+  font-weight: 600;
+
 }
