@@ -682,6 +682,9 @@ ul.pagination .active a {
     padding: 6px 45px !important;
     margin: 5px 0;
   }
+  .bg-1 {
+  height: 100vh;
+}
 }
 
 @media (max-width: 480px) {
@@ -698,6 +701,9 @@ ul.pagination .active a {
     padding: 6px 45px !important;
     margin: 5px 0;
   }
+    .bg-1 {
+  height: 80vh;
+}
 }
 
 @media (max-width: 992px) {
@@ -901,7 +907,7 @@ ul.pagination .active a {
 }
 
 .hero-area {
-  padding: 20vh 0 0;
+  padding: 10vh 0 0;
 }
 
 .hero-area .content-block {
